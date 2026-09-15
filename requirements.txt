@@ -1,4 +1,6 @@
 pandas
 numpy
+streamlit
 openpyxl
-jupytergit status
+jupyter
+notebook
